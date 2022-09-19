@@ -1,4 +1,4 @@
-num1 = input("Please enter first number: ")
-num2 = input("Please enter second number: ")
-sum = int(num1) + int(num2)
+num1 = int(input("Please enter first number: "))
+num2 = int(input("Please enter second number: "))
+sum = num1 + num2
 print("The total is:", sum )
