@@ -1,0 +1,6 @@
+num1 = input("Please enter first number: ")
+num2 = input("Please enter second number: ")
+num3 = input("Please enter third number: ")
+sum1 = int(num1) + int(num2)
+sum2 = sum1 * int(num3)
+print("The answer is : ", sum2)
